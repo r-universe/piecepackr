@@ -1,5 +1,11 @@
 [
   {
+    "package": "affiner",
+    "url": "https://github.com/trevorld/affiner",
+    "via": ["ppgamer", "ppn"],
+    "from": "ppgamer"
+  },
+  {
     "package": "ppcli",
     "url": "https://github.com/piecepackr/ppcli",
     "via": ["piecenikr"],
@@ -12,6 +18,12 @@
     "from": "ppdf"
   },
   {
+    "package": "ppcli",
+    "url": "https://github.com/piecepackr/ppcli",
+    "via": ["ppgamer"],
+    "from": "ppgamer"
+  },
+  {
     "package": "ppdf",
     "url": "https://github.com/piecepackr/ppdf",
     "via": ["piecenikr", "ppcli"],
@@ -22,5 +34,17 @@
     "url": "https://github.com/piecepackr/ppdf",
     "via": ["ppcli"],
     "from": "ppcli"
+  },
+  {
+    "package": "ppdf",
+    "url": "https://github.com/piecepackr/ppdf",
+    "via": ["ppgamer", "ppcli"],
+    "from": "ppgamer"
+  },
+  {
+    "package": "ppn",
+    "url": "https://github.com/piecepackr/ppn",
+    "via": ["ppgamer"],
+    "from": "ppgamer"
   }
 ]
