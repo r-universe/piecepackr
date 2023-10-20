@@ -10,5 +10,11 @@
     "url": "https://github.com/piecepackr/ppdf",
     "via": ["piecenikr", "ppcli"],
     "from": "piecenikr"
+  },
+  {
+    "package": "ppdf",
+    "url": "https://github.com/piecepackr/ppdf",
+    "via": ["ppcli"],
+    "from": "ppcli"
   }
 ]
