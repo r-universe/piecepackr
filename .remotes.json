@@ -36,6 +36,12 @@
     "from": "ppn"
   },
   {
+    "package": "ppcli",
+    "url": "https://github.com/piecepackr/ppcli",
+    "via": ["pprules", "ppdf"],
+    "from": "pprules"
+  },
+  {
     "package": "ppdf",
     "url": "https://github.com/piecepackr/ppdf",
     "via": ["piecenikr", "ppcli"],
@@ -60,9 +66,21 @@
     "from": "ppn"
   },
   {
+    "package": "ppdf",
+    "url": "https://github.com/piecepackr/ppdf",
+    "via": ["pprules"],
+    "from": "pprules"
+  },
+  {
     "package": "ppn",
     "url": "https://github.com/piecepackr/ppn",
     "via": ["ppgamer"],
     "from": "ppgamer"
+  },
+  {
+    "package": "xmpdf",
+    "url": "https://github.com/trevorld/r-xmpdf",
+    "via": ["pprules"],
+    "from": "pprules"
   }
 ]
