@@ -1,0 +1,14 @@
+[
+  {
+    "package": "ppcli",
+    "url": "https://github.com/piecepackr/ppcli",
+    "via": ["piecenikr"],
+    "from": "piecenikr"
+  },
+  {
+    "package": "ppdf",
+    "url": "https://github.com/piecepackr/ppdf",
+    "via": ["piecenikr", "ppcli"],
+    "from": "piecenikr"
+  }
+]
