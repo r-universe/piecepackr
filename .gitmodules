@@ -1,7 +1,28 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/r-universe-org/cran-to-git
+	url = https://github.com/piecepackr/piecepackr.r-universe.dev
 	branch = HEAD
+[submodule "piecenikr"]
+	path = piecenikr
+	url = https://github.com/piecepackr/piecenikr
 [submodule "piecepackr"]
 	path = piecepackr
 	url = https://github.com/piecepackr/piecepackr
+[submodule "ppcli"]
+	path = ppcli
+	url = https://github.com/piecepackr/ppcli
+[submodule "ppdf"]
+	path = ppdf
+	url = https://github.com/piecepackr/ppdf
+[submodule "ppgamer"]
+	path = ppgamer
+	url = https://github.com/piecepackr/ppgamer
+[submodule "ppn"]
+	path = ppn
+	url = https://github.com/piecepackr/ppn
+[submodule "pprules"]
+	path = pprules
+	url = https://github.com/piecepackr/pprules
+[submodule "ppwicker"]
+	path = ppwicker
+	url = https://github.com/piecepackr/ppwicker
