@@ -70,11 +70,5 @@
     "url": "https://github.com/piecepackr/ppn",
     "via": ["ppgamer"],
     "from": "ppgamer"
-  },
-  {
-    "package": "xmpdf",
-    "url": "https://github.com/trevorld/r-xmpdf",
-    "via": ["pprules"],
-    "from": "pprules"
   }
 ]

@@ -30,7 +30,3 @@
 [submodule "ppwicker"]
 	path = ppwicker
 	url = https://github.com/piecepackr/ppwicker
-[submodule "xmpdf"]
-	path = xmpdf
-	url = https://github.com/trevorld/r-xmpdf
-	registered = false
