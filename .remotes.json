@@ -6,12 +6,6 @@
     "from": "ppgamer"
   },
   {
-    "package": "affiner",
-    "url": "https://github.com/trevorld/affiner",
-    "via": ["ppn"],
-    "from": "ppn"
-  },
-  {
     "package": "ppcli",
     "url": "https://github.com/piecepackr/ppcli",
     "via": ["piecenikr"],
