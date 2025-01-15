@@ -2,10 +2,6 @@
 	path = .registry
 	url = https://github.com/piecepackr/piecepackr.r-universe.dev
 	branch = HEAD
-[submodule "affiner"]
-	path = affiner
-	url = https://github.com/trevorld/affiner
-	registered = false
 [submodule "piecenikr"]
 	path = piecenikr
 	url = https://github.com/piecepackr/piecenikr

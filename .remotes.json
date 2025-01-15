@@ -1,11 +1,5 @@
 [
   {
-    "package": "affiner",
-    "url": "https://github.com/trevorld/affiner",
-    "via": ["ppgamer", "ppn"],
-    "from": "ppgamer"
-  },
-  {
     "package": "ppcli",
     "url": "https://github.com/piecepackr/ppcli",
     "via": ["piecenikr"],
