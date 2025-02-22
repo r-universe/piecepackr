@@ -1,5 +1,11 @@
 [
   {
+    "package": "piecepackr",
+    "url": "https://github.com/piecepackr/piecepackr",
+    "via": ["ppdf"],
+    "from": "ppdf"
+  },
+  {
     "package": "ppcli",
     "url": "https://github.com/piecepackr/ppcli",
     "via": ["piecenikr"],
