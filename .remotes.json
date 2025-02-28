@@ -6,6 +6,12 @@
     "from": "ppdf"
   },
   {
+    "package": "piecepackr",
+    "url": "https://github.com/piecepackr/piecepackr",
+    "via": ["ppn"],
+    "from": "ppn"
+  },
+  {
     "package": "ppcli",
     "url": "https://github.com/piecepackr/ppcli",
     "via": ["piecenikr"],
