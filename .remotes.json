@@ -2,7 +2,7 @@
   {
     "package": "piecepackr",
     "url": "https://github.com/piecepackr/piecepackr",
-    "via": ["piecenikr", "ppcli", "ppdf"],
+    "via": ["piecenikr"],
     "from": "piecenikr"
   },
   {
