@@ -2,6 +2,12 @@
   {
     "package": "piecepackr",
     "url": "https://github.com/piecepackr/piecepackr",
+    "via": ["piecenikr", "ppcli", "ppdf"],
+    "from": "piecenikr"
+  },
+  {
+    "package": "piecepackr",
+    "url": "https://github.com/piecepackr/piecepackr",
     "via": ["ppcli", "ppdf"],
     "from": "ppcli"
   },
@@ -76,6 +82,12 @@
     "url": "https://github.com/piecepackr/ppdf",
     "via": ["pprules"],
     "from": "pprules"
+  },
+  {
+    "package": "ppn",
+    "url": "https://github.com/piecepackr/ppn",
+    "via": ["piecenikr"],
+    "from": "piecenikr"
   },
   {
     "package": "ppn",
